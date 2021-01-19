@@ -216,6 +216,12 @@ img {
     margin-right: 30px;
 }
 
+.image-text {
+    position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
 /* mobile */
 @media(max-width: 768px) {
     .navbar {
